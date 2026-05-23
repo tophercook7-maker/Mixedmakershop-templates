@@ -1,0 +1,3 @@
+GitHub Pages deployment trigger for MixedMakerShop Templates.
+
+This file exists to create a fresh commit after GitHub Pages was switched to GitHub Actions.
