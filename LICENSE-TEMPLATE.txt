@@ -1,0 +1,15 @@
+MixedMakerShop Template License
+
+These templates may be used for personal projects or one client/business website per purchase unless otherwise agreed.
+
+You may:
+- Customize the templates
+- Use the templates for one business project
+- Modify colors, text, and layout
+
+You may not:
+- Resell the templates as your own
+- Redistribute the source files for free
+- Claim authorship of the original template system
+
+Custom setup and commercial licensing options may be available through MixedMakerShop.
